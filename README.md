@@ -241,6 +241,7 @@ projects are available at
       height="40"
     />
   </a>
+
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
@@ -273,6 +274,7 @@ projects are available at
       height="40"
     />
   </a>
+  </div><div>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -330,6 +332,7 @@ projects are available at
     />
   </a>
 </div>
+<div>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
@@ -359,7 +362,7 @@ projects are available at
     />
   </a>
 </p>
-
+</div>
 <p>
   <img
     align="center"
