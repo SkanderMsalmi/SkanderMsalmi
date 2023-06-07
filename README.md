@@ -365,7 +365,7 @@ projects are available at
 </div>
 <p>
   <img
-    align="center"
+    style="margin:auto"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=skandermsalmi&show_icons=true&locale=en&layout=compact"
     alt="skandermsalmi"
   />
